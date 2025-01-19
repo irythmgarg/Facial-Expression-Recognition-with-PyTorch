@@ -1,5 +1,3 @@
-![Image](https://github.com/user-attachments/assets/55ec1564-988e-43e3-bbb7-d396c484b134)
-
 ![Image](https://github.com/user-attachments/assets/6a76beb3-080a-4cfd-93f9-d3e0ac77dfd2)
 
 Use Convolutional Neural Networks (CNNs) as they are well-suited for image tasks.
